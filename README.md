@@ -1,5 +1,17 @@
-# Proyecto Integrador de saberes 🦾🤖
+<div align="center">
+<a href="https://github.com/GataNina-Li"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=00FF00&center=falso&vCenter=falso&lines=Proyecto+integrador+de+saberes.+🤖✨" height="90px"></a>
+<img src="https://raw.githubusercontent.com/Jxel117/PooJuego/develop/Imagenes/Puntacion.s.png" alt="GIF" width="300" height="200"></p>
+</div>
 
+# 📍 Atajos del README 📍
+| TEMA | DESCRIPCIÓN | ATAJO |
+|------|-------------|-------|
+| 💻 **Descripción** | *Descripcion del juego* |[ver](https://github.com/Jxel117/PooJuego?tab=readme-ov-file#descripci%C3%B3n-) |
+| ⚙️ **Características** | *Caracteristicas del juego* |[ver](https://github.com/Jxel117/PooJuego?tab=readme-ov-file#caracter%C3%ADsticas-%EF%B8%8F) |
+| 🕹️**Cómo jugar** | *Instrucciones de uso* |[ver](https://github.com/Jxel117/PooJuego?tab=readme-ov-file#c%C3%B3mo-jugar-%EF%B8%8F) |
+| 🧩 **Diagrama UML** | *Diagrama de clases del juego* |[ver](https://github.com/Jxel117/PooJuego?tab=readme-ov-file#diagrama-de-clases-) |
+| ✅ **COLABORADORES** | *Implicados en este proyecto* |[ver](https://github.com/Jxel117/PooJuego?tab=readme-ov-file#-desarrolladores) |
+----
 **Objetivo General:** 
 
 - Desarrollar e implementar un sistema de control remoto integrado de software y hardware para un brazo robótico, con el propósito de facilitar la recolección de residuos de manera precisa y segura, promoviendo la automatización y eficiencia en distintos lugares de operación.
